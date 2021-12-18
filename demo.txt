@@ -1,0 +1,6 @@
+={% lorem 6 b random %}
+=lorem(6,20)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae arcu porta, porttitor magna sed, posuere ante. Aenean lobortis dolor sed nunc ultrices imperdiet. Nunc accumsan tortor ligula, et condimentum velit accumsan nec. Vestibulum varius sem leo, in semper tellus malesuada quis. Proin suscipit enim vitae quam dictum, vel sollicitudin lorem consequat. In cursus, odio et sodales semper, massa ipsum hendrerit neque, a tristique ipsum mi nec justo. Aliquam augue nunc, euismod id sagittis eget, consectetur non ligula. Proin auctor justo id enim efficitur hendrerit. In hac habitasse platea dictumst. Phasellus elementum diam dui. Pellentesque mattis eu augue vel tincidunt.
+
+Donec auctor interdum nibh id auctor. Fusce eu felis faucibus, condimentum augue a, vestibulum justo. Nulla in vestibulum nisl. Mauris pellentesque, massa nec volutpat consectetur, leo augue consectetur justo, at scelerisque lorem libero at ante. Nunc interdum ipsum eros, id dictum elit pharetra ac. Quisque fermentum aliquet consequat. Aenean fringilla tincidunt molestie. Mauris pellentesque lectus mi, et ornare dui malesuada a. Maecenas dignissim neque ex, nec pharetra massa tincidunt eu. Now the file has more content!
